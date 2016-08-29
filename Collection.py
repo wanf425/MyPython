@@ -14,7 +14,7 @@ print 'after insert',alist
 print 'pop',alist.pop(1)
 print 'after pop',alist	
 
-p#tuple
+#tuple
 atuple = (1,2,'3')
 print atuple
 atuple = (1,)
