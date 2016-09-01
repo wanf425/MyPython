@@ -1,8 +1,9 @@
 eclipse.preferences.version=1
-encoding//com/wt/AdvanceFeatures.py=utf-8
-encoding//com/wt/Collection.py=utf-8
-encoding//com/wt/Controller.py=utf-8
-encoding//com/wt/Function.py=utf-8
-encoding//com/wt/HelloWord.py=utf-8
-encoding//com/wt/HigherOrderFunction.py=utf-8
-encoding//com/wt/Package.py=utf-8
+encoding//com/wt/practice/AdvanceFeatures.py=utf-8
+encoding//com/wt/practice/Collection.py=utf-8
+encoding//com/wt/practice/Controller.py=utf-8
+encoding//com/wt/practice/Function.py=utf-8
+encoding//com/wt/practice/HelloWord.py=utf-8
+encoding//com/wt/practice/HigherOrderFunction.py=utf-8
+encoding//com/wt/practice/Package.py=utf-8
+encoding//com/wt/workflow/douban.py=utf-8
