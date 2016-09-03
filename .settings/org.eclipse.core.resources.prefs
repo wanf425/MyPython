@@ -6,4 +6,6 @@ encoding//com/wt/practice/Function.py=utf-8
 encoding//com/wt/practice/HelloWord.py=utf-8
 encoding//com/wt/practice/HigherOrderFunction.py=utf-8
 encoding//com/wt/practice/Package.py=utf-8
-encoding//com/wt/workflow/douban.py=utf-8
+encoding//com/wt/workflow/closeapp/closeapp.py=utf-8
+encoding//com/wt/workflow/douban/douban.py=utf-8
+encoding//com/wt/workflow/youdao/youdao.py=utf-8
